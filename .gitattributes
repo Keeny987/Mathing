@@ -1,0 +1,4 @@
+# This folder is a finished web export that gets served as-is. Treat every file
+# as binary so git never rewrites line endings and the bytes on GitHub are the
+# exact bytes Godot wrote.
+* -text
